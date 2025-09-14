@@ -1,0 +1,12 @@
+target
+
+## IDE
+.settings
+.project
+.buildpath
+.idea
+*.iml
+.vscode
+
+## OS related
+*.DS_Store
