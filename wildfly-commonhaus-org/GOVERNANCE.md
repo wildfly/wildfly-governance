@@ -70,6 +70,8 @@ Eligible candidates for the role of Commonhaus Representative or Deputy Commonha
 
 - Any contributor to a WildFly Commonhaus Organization project, provided the candidate is a Commonhaus Foundation member, and agrees to become a Signatory of the Commonhaus Fiscal Sponsorship Agreement before taking on their new role.
 
+Upon the adoption of the initial version of this governance policy the Commonhaus Representative will be Brian Stansberry and the Deputy Commonhaus Representative will be Thomas Jenkinson.
+
 The Commonhaus Representative and Deputy Commonhaus Representative keep their role indefinitely, unless they resign or a new decision revokes their role.
 
 ~~The list of Maintainers and Project Leaders is kept up-to-date on the "Team" page of this website.~~
