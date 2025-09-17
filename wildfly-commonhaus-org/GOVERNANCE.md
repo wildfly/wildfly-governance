@@ -74,7 +74,7 @@ Upon the adoption of the initial version of this governance policy the Commonhau
 
 The Commonhaus Representative and Deputy Commonhaus Representative keep their role indefinitely, unless they resign or a new decision revokes their role.
 
-~~The list of Maintainers and Project Leaders is kept up-to-date on the "Team" page of this website.~~
+The list of people in the Maintainer, Project Lead, Commonhaus Representative and Deputy Commonhaus Representative roles is kept up-to-date on the "Team.md" page of this repository.
 
 ## Code of Conduct
 
