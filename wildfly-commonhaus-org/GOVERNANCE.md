@@ -62,7 +62,7 @@ The role of Maintainer or Project Lead is granted or revoked according to the po
 
 The role of Commonhaus Representative or Deputy Commonhaus Representative is granted or revoked through the decision-making process, with additional restrictions:
 
-1. The discussion must happen on the WildFly development mailing list, as listed in the Community page on this website.
+1. The discussion must happen on the [WildFly development mailing list](mailto:wildfly-dev@lists.jboss.org).
 2. The opinion of the Commonhaus Representative or Deputy Commonhaus Representative whose role is being discussed does not factor into the decision.
 3. Discussions regarding the role of Commonhaus Representative or Deputy Commonhaus may not last less than 30 days.
 
