@@ -46,7 +46,7 @@ In practice, this involves:
 - Discussing matters openly, to facilitate others joining the discussions and expressing concerns.
 - Taking into account every Contributor’s opinion, regardless of their role.
 
-Actual implementation of consensus decision-making is up to Maintainers and can vary based on the audience and criticality of the discussion. Inspiration may be found in the Lazy Consensus model as defined by the Apache Foundation, and in Martha’s Rules.
+Actual implementation of consensus decision-making is up to Maintainers and can vary based on the audience and criticality of the discussion. Inspiration may be found in the [Lazy Consensus model as defined by the Apache Foundation](https://community.apache.org/committers/decisionMaking.html), and in [Martha’s Rules](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1825&context=sociologyfacpub).
 
 ### Conflict Resolution
 
@@ -68,7 +68,7 @@ The role of Commonhaus Representative or Deputy Commonhaus Representative is gra
 
 Eligible candidates for the role of Commonhaus Representative or Deputy Commonhaus Representative are:
 
-- Any contributor to a WildFly Commonhaus Foundation project, provided the candidate is a Commonhaus Foundation member, and agrees to become a Signatory of the Commonhaus Fiscal Sponsorship Agreement before taking on their new role.
+- Any contributor to a WildFly Commonhaus Organization project, provided the candidate is a Commonhaus Foundation member, and agrees to become a Signatory of the Commonhaus Fiscal Sponsorship Agreement before taking on their new role.
 
 The Commonhaus Representative and Deputy Commonhaus Representative keep their role indefinitely, unless they resign or a new decision revokes their role.
 
@@ -76,11 +76,11 @@ The Commonhaus Representative and Deputy Commonhaus Representative keep their ro
 
 ## Code of Conduct
 
-All participants in WildFly Commonhaus Foundation projects are expected to adhere to the [Commonhaus Foundation Code of Conduct](https://www.commonhaus.org/policies/code-of-conduct/). Please ensure you are familiar with its guidelines and expectations, as it’s essential for maintaining a positive and collaborative environment.
+All participants in WildFly Commonhaus Organization projects are expected to adhere to the [Commonhaus Foundation Code of Conduct](https://www.commonhaus.org/policies/code-of-conduct/). Please ensure you are familiar with its guidelines and expectations, as it’s essential for maintaining a positive and collaborative environment.
 
 ## Trademark Policy
 
-The WildFly Commonhaus Foundation projects’ logos, icons, and domain names are protected by trademark rights. Usage of these trademarks must adhere to the [Commonhaus Foundation Trademark Policy](https://www.commonhaus.org/policies/trademark-policy/).
+The WildFly Commonhaus Organization projects’ logos, icons, and domain names are protected by trademark rights. Usage of these trademarks must adhere to the [Commonhaus Foundation Trademark Policy](https://www.commonhaus.org/policies/trademark-policy/).
 
 ## Contributing
 
