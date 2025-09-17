@@ -72,7 +72,11 @@ Eligible candidates for the role of Commonhaus Representative or Deputy Commonha
 
 Upon the adoption of the initial version of this governance policy the Commonhaus Representative will be Brian Stansberry and the Deputy Commonhaus Representative will be Thomas Jenkinson.
 
-The Commonhaus Representative and Deputy Commonhaus Representative keep their role indefinitely, unless they resign or a new decision revokes their role.
+The Commonhaus Representative and Deputy Commonhaus Representative keep their role for a period of one year, unless they resign or a new decision revokes their role. The initial terms following adoption of this governance policy will begin the day the policy is adopted.
+
+At least 30 days prior to the end of their respective terms the Commonhaus Representative and Deputy Commonhaus Representative will each, via the WildFly development list, 1) notify the community whether they wish to continue in their role for another year and 2) request that any other candidates who are interested in the role come forward. This notification begins the decision-making process for choosing who will hold that role for the next year.
+
+If the decision-making process to choose the Commonhaus Representative or Deputy Commonhaus Representative for the next year continues beyond the end of the current one-year term, the person currently in the role, if willing, will continue in the role until the decision-making process concludes.
 
 The list of people in the Maintainer, Project Lead, Commonhaus Representative and Deputy Commonhaus Representative roles is kept up-to-date on the "Team.md" page of this repository.
 
