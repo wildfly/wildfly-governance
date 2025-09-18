@@ -28,7 +28,7 @@ TODO add link to JBoss WS CONTRIBUTING.md
 
 ### Narayana
 
-TODO add link to Narayana CONTRIBUTING.md
+https://github.com/jbosstm/narayana/blob/main/CONTRIBUTING.md
 
 ### RESTEasy
 
