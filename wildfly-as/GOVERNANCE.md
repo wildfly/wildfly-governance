@@ -65,7 +65,7 @@ Upon the adoption of the initial version of this governance policy the Overall P
 
 Maintainers, Publishers, Component Leads, Project Leaders and the Overall Project Lead keep their role indefinitely, unless they resign or a new decision revokes their role.
 
-The list of Maintainers, Publishers and Project Leaders is kept up-to-date on the "Team" page of this website.
+The list of people in the Maintainer, Publisher, Component Lead, Project Lead and Overall Project Lead roles is kept up-to-date on the "Team.md" page of this repository.
 
 ## Code of Conduct
 
