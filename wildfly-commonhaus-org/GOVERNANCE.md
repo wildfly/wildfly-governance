@@ -10,7 +10,7 @@ The WildFly Commonhaus Organization covers a number of open source projects that
 
 The top-level projects are:
 
-- Ironjacamar
+- IronJacamar
 - JBeret
 - JBoss Parent
 - JBoss Threads

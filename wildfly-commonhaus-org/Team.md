@@ -12,7 +12,7 @@ Thomas Jenkinson
 
 ## Top Level Project Roles
 
-### Ironjacamar
+### IronJacamar
 
 #### Project Lead
 
@@ -20,7 +20,7 @@ Tomasz Adamski
 
 #### Maintainers
 
-TODO add link to Ironjacamar maintainers
+TODO add link to IronJacamar maintainers
 
 ### JBeret
 
