@@ -65,6 +65,8 @@ Upon the adoption of the initial version of this governance policy the Overall P
 
 Maintainers, Publishers, Component Leads, Project Leaders and the Overall Project Lead keep their role indefinitely, unless they resign or a new decision revokes their role.
 
+Project Leaders (for projects they lead) or the Overall Project Lead (for all projects) may at any time propose the removal from the Maintainer role of persons who have been inactive for longer than two years. Such a proposal would be considered using the normal decision-making process.
+
 The list of people in the Maintainer, Publisher, Component Lead, Project Lead and Overall Project Lead roles is kept up-to-date on the "Team.md" page of this repository.
 
 ## Code of Conduct
