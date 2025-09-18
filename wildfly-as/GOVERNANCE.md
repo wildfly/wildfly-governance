@@ -77,4 +77,4 @@ The WildFly Application Server projects’ logos, icons, and domain names are pr
 
 ## Contributing
 
-We welcome all forms of contribution, from code improvements to documentation and design. For details on how to contribute and the process your contributions will follow, please read our Contributing Guidelines.
+We welcome all forms of contribution, from code improvements to documentation and design. For details on how to contribute and the process your contributions will follow, please read our [Contributing Guidelines](https://github.com/wildfly/wildfly-governance/tree/main/wildfly-as/CONTRIBUTING.md).
