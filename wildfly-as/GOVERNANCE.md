@@ -30,7 +30,7 @@ In practice, this involves:
 
 Actual implementation of consensus decision-making is up to Maintainers and can vary based on the audience and criticality of the discussion. Inspiration may be found in the [Lazy Consensus model as defined by the Apache Foundation](https://community.apache.org/committers/decisionMaking.html), and in [Martha’s Rules](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1825&context=sociologyfacpub).
 
-## Role granting/revoking
+## Role granting
 
 The role of Maintainer, Publisher, Component Lead, Project Leader or Overall Project Lead is granted or revoked through the decision-making process, with additional restrictions:
 
@@ -38,7 +38,9 @@ The role of Maintainer, Publisher, Component Lead, Project Leader or Overall Pro
 2. The opinion of the Maintainer, Component Lead, Project Leader or Overall Project Lead whose role is being discussed does not factor into the decision.
 3. Discussions regarding the role of Overall Project Lead may not last less than 30 days.
 
-Eligible candidates are:
+The list of people in the Maintainer, Publisher, Component Lead, Project Lead and Overall Project Lead roles is kept up-to-date on the "Team.md" page of this repository.
+
+Eligible candidates for the various roles are:
 
 **For the role of Maintainer**
 
@@ -62,13 +64,19 @@ Any Component Lead or Project Lead, provided the candidate is a Commonhaus Found
 
 Upon the adoption of the initial version of this governance policy the Overall Project Lead will be Brian Stansberry.
 
-Maintainers, Publishers, Component Leads, Project Leaders and the Overall Project Lead keep their role indefinitely, unless they resign or a new decision revokes their role.
+## Role revoking
+
+The Overall Project Lead keeps their role for a period of one year, unless they resign or a new decision revokes their role. The initial term following adoption of this governance policy will begin the day the policy is adopted.
+
+At least 30 days prior to the end of their term the Overall Project Lead will, via the WildFly development list, 1) notify the community whether they wish to continue in their role for another year and 2) request that any other candidates who are interested in the role come forward. This notification begins the decision-making process for choosing who will hold that role for the next year.
+
+If the decision-making process to choose the Overall Project Lead for the next year continues beyond the end of the current one-year term, the person currently in the role, if willing, will continue in the role until the decision-making process concludes.
+
+Maintainers, Publishers, Component Leads, and Project Leaders keep their role indefinitely, unless they resign or a new decision revokes their role.
 
 Project Leaders (for projects they lead) or the Overall Project Lead (for all projects) may at any time propose the removal from the Maintainer role of persons who have been inactive for longer than two years. Such a proposal would be considered using the normal decision-making process.
 
 When necessary to protect the interests of the project, Project Leaders or the Overall Project Lead may, without discussion, remove privileges associated with the Maintainer and Publisher roles (e.g. code repository write permissions). Such an action should be followed by a discussion of how to correct the issue that led to the removal, or by a discussion of revoking the role.
-
-The list of people in the Maintainer, Publisher, Component Lead, Project Lead and Overall Project Lead roles is kept up-to-date on the "Team.md" page of this repository.
 
 ## Code of Conduct
 
