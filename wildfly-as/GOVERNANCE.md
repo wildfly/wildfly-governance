@@ -61,6 +61,8 @@ Any contributor to the project they will lead.
 
 Any Component Lead or Project Lead, provided the candidate is a Commonhaus Foundation member.
 
+Upon the adoption of the initial version of this governance policy the Overall Project Lead will be Brian Stansberry.
+
 Maintainers, Publishers, Component Leads, Project Leaders and the Overall Project Lead keep their role indefinitely, unless they resign or a new decision revokes their role.
 
 The list of Maintainers, Publishers and Project Leaders is kept up-to-date on the "Team" page of this website.
