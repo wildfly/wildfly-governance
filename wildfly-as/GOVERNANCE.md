@@ -6,9 +6,8 @@ This document outlines the governance model for WildFly Application Server proje
 ## Roles and Responsibilities
 
 - **Contributors**: Anyone who contributes to WildFly Application Server projects in any form.
-
-- **Maintainers**: Contributors eligible for write access to a WildFly Application Server code repository. Responsible for driving initiatives and reviewing/merging contributions in their area of expertise.
-- **Publishers**: Maintainers with the right to publish releases of the projects they maintain.
+- **Maintainers**: Contributors eligible for write access to a WildFly Application Server code repository. Responsible for driving initiatives and reviewing/merging contributions in their area of expertise. Write access might be limited to particular repositories.
+- **Publishers**: Maintainers with the right to publish releases of the projects they maintain. Release permissions might be limited to particular projects.
 - **Component Leads**: Maintainers with higher decision power whenever a functional area of the main application server or WildFly Core they lead is affected.
 - **Project Leaders**: Maintainers (at most one per code repository) with higher decision power whenever the project they lead is affected. Responsible for keeping a particular project’s technical direction consistent, safe and sustainable. This involves in particular enforcing compliance with requirements of the Commonhaus Foundation.
 - **Overall Project Lead**: Maintainer with higher decision power in all projects and components.
@@ -66,6 +65,8 @@ Upon the adoption of the initial version of this governance policy the Overall P
 Maintainers, Publishers, Component Leads, Project Leaders and the Overall Project Lead keep their role indefinitely, unless they resign or a new decision revokes their role.
 
 Project Leaders (for projects they lead) or the Overall Project Lead (for all projects) may at any time propose the removal from the Maintainer role of persons who have been inactive for longer than two years. Such a proposal would be considered using the normal decision-making process.
+
+When necessary to protect the interests of the project, Project Leaders or the Overall Project Lead may, without discussion, remove privileges associated with the Maintainer and Publisher roles (e.g. code repository write permissions). Such an action should be followed by a discussion of how to correct the issue that led to the removal, or by a discussion of revoking the role.
 
 The list of people in the Maintainer, Publisher, Component Lead, Project Lead and Overall Project Lead roles is kept up-to-date on the "Team.md" page of this repository.
 
