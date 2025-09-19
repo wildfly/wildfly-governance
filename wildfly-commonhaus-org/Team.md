@@ -70,7 +70,7 @@ Thomas Jenkinson
 
 #### Maintainers
 
-TODO add link to Narayana maintainers
+https://github.com/jbosstm/narayana/wiki/List-of-Narayana-project-maintainers
 
 ### RESTEasy
 
