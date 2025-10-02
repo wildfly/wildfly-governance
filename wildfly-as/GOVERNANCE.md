@@ -6,7 +6,7 @@ This document outlines the governance model for WildFly Application Server proje
 ## Roles and Responsibilities
 
 - **Contributors**: Anyone who contributes to WildFly Application Server projects in any form.
-- **Maintainers**: Contributors eligible for write access to a WildFly Application Server code repository. Responsible for driving initiatives and reviewing/merging contributions in their area of expertise. Write access might be limited to particular repositories.
+- **Maintainers**: Contributors eligible for write access to a code repository for a WildFly Application Server project. Responsible for driving initiatives and reviewing/merging contributions in their area of expertise. Write access might be limited to particular repositories.
 - **Publishers**: Maintainers with the right to publish releases of the projects they maintain. Release permissions might be limited to particular projects.
 - **Component Leads**: Maintainers with higher decision power whenever a functional area of the main application server or WildFly Core they lead is affected.
 - **Project Leaders**: Maintainers (at most one per code repository) with higher decision power whenever the project they lead is affected. Responsible for keeping a particular project’s technical direction consistent, safe and sustainable. This involves in particular enforcing compliance with requirements of the Commonhaus Foundation.
