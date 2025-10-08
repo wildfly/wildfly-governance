@@ -96,7 +96,7 @@ TODO add link to Undertow maintainers
 
 #### Project Lead
 
-Matěj Novotny
+Matěj Novotný
 
 #### Maintainers
 
