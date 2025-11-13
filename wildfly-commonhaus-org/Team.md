@@ -110,4 +110,4 @@ Brian Stansberry
 
 #### Maintainers
 
-TODO add link to WildFly AS maintainers
+https://github.com/wildfly/wildfly-governance/blob/main/wildfly-as/Team.md#maintainers
