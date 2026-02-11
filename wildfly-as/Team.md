@@ -71,6 +71,10 @@ TODO identify and list Project Leads
 
 **GitHub**: [ehsavoie](https://github.com/ehsavoie)
 
+### Fabio Burzigotti
+
+**GitHub**: [fabiobrz](https://github.com/fabiobrz)
+
 ### Farah Juma
 
 **GitHub**: [fjuma](https://github.com/fjuma)
@@ -340,5 +344,9 @@ TODO identify and list Project Leads
 ### Paul Ferraro
 
 **GitHub**: [pferraro](https://github.com/pferraro)
+
+### Radoslav Husar
+
+**GitHub**: [rhusar](https://github.com/rhusar)
 
 TODO Other repositories with limited publisher lists
