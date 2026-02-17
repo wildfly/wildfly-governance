@@ -32,6 +32,16 @@ James Perkins
 
 TODO add link to JBeret maintainers
 
+### JBoss Logging
+
+#### Project Lead
+
+James Perkins
+
+#### Maintainers
+
+[JBoss Logging maintainers](../jboss-logging/Teams.md)
+
 ### JBoss Parent
 
 #### Project Lead
