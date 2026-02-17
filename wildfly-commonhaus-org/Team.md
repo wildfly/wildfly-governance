@@ -30,7 +30,7 @@ James Perkins
 
 #### Maintainers
 
-TODO add link to JBeret maintainers
+[JBeret maintainers](../jberet/Teams.md)
 
 ### JBoss Parent
 
