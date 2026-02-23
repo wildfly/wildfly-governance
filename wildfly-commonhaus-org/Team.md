@@ -80,7 +80,7 @@ James Perkins
 
 #### Maintainers
 
-TODO add link to RESTEasy maintainers
+[RESTEasy maintainers](../resteasy/Teams.md)
 
 ### Undertow
 
