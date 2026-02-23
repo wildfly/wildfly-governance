@@ -56,11 +56,11 @@ TODO add link to JBoss Threads maintainers
 
 #### Project Lead
 
-Richard Opalka
+Fabio Burzigotti
 
 #### Maintainers
 
-TODO add link to JBoss WS maintainers
+[JBoss Web Services projects' maintainers](../jbossws/Team.md#maintainers-)
 
 ### Narayana
 
