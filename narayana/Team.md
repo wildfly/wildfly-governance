@@ -8,7 +8,7 @@ The people listed here currently act in various governance roles with the WildFl
 
 #### Project Lead
 
-Thomas Jenkinson
+Manuel Finelli
 
 #### Maintainers
 
