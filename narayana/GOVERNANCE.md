@@ -39,7 +39,7 @@ The role of Maintainer or Project Lead is granted or revoked through the decisio
 
 The discussion must happen in a public space, such as on the [Narayana developer zulip channel]([https://narayana.zulipchat.com/#narrow/channel/323715-developers)).
 The opinion of the Maintainer or Project Lead whose role is being discussed does not factor into the decision.
-Discussions regarding the role of Project Lead may not last less than 30 days, for the Maintainer role they should last at least 7 days.
+Discussions regarding the role of Project Lead may not last less than 30 days or until a majority of eligible voters with the Maintainer role have agreed and the Project Lead themselves supports the direction, whichever is sooner. For the Maintainer role they should last at least 7 days.
 
 Eligible candidates are:
 
