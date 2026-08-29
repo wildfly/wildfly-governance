@@ -90,7 +90,7 @@ Flavia Rainone
 
 #### Maintainers
 
-TODO add link to Undertow maintainers
+https://github.com/wildfly/wildfly-governance/blob/main/undertow/Team.md
 
 ### Weld
 
