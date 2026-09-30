@@ -241,6 +241,10 @@ TODO identify and list Project Leads
 
 ### Rastislav Budinsky
 
+### Raúl Ojeda Robles
+
+**GitHub**: [rawojeda](https://github.com/rawojeda)
+
 **GitHub**: [The-Huginn](https://github.com/The-Huginn)
 
 ### Rebecca Searls
