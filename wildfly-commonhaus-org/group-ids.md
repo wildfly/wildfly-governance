@@ -172,17 +172,17 @@ Subsequent manual edits are either in **bold text**, *italic text* or in ~~strik
 | jbosstm | jbosstm.github.io | false | main | N/A |
 | jbosstm | lra | false | main | org.jboss.narayana.lra |
 | jbosstm | lra-coordinator-quarkus | false | main | org.jboss.narayana.rts |
-| jbosstm | narayana | false | main | org.jboss.narayana**,org.jboss.narayana.arjunacore, org.jboss.narayana.compensations, org.jboss.narayana.ext, org.jboss.narayana.jta, org.jboss.narayana.jts, org.jboss.narayana.stm, org.jboss.narayana.vertx, org.jboss.narayana.xts** |
+| jbosstm | narayana | false | main | org.jboss.narayana **org.jboss.narayana.arjunacore, org.jboss.narayana.compensations, org.jboss.narayana.ext, org.jboss.narayana.jta, org.jboss.narayana.jts, org.jboss.narayana.stm, org.jboss.narayana.vertx, org.jboss.narayana.xts** |
 | jbosstm | narayana-checkstyle-config | false | main | io.narayana |
 | jbosstm | narayana-openshift-tools | false | main | io.narayana |
 | jbosstm | narayana-proposals | false | main | N/A |
 | jbosstm | narayana-tomcat | true | main | org.jboss.integration |
 | jbosstm | narayana.io | false | develop | N/A |
 | jbosstm | narayana.svn | true | master | N/A |
-| jbosstm | performance | false | main | org.jboss.narayana.performance**, narayana.performance.ejb, org.jboss.narayana.arjunacore, org.jboss.narayana.perf, org.jboss.narayana.stm** |
+| jbosstm | performance | false | main | org.jboss.narayana.performance **narayana.performance.ejb, org.jboss.narayana.arjunacore, org.jboss.narayana.perf, org.jboss.narayana.stm** |
 | jbosstm | project-metadata | false | main | N/A |
 | jbosstm | quarkus | true | main | io.quarkus |
-| jbosstm | quickstart | false | main | org.jboss.narayana.quickstart**, org.jboss.narayana.quickstart.arjunacore, org.jboss.narayana.quickstart.compensatingtransactions, org.jboss.narayana.quickstart.compensations.mongodb-simple, org.jboss.narayana.quickstart.compensations.travel-agent, org.jboss.narayana.quickstart.docker, org.jboss.narayana.quickstart.jpms, org.jboss.narayana.quickstart.jta, org.jboss.narayana.quickstart.jts, org.jboss.narayana.quickstart.rts, org.jboss.narayana.quickstart.rts.lra, org.jboss.narayana.quickstart.spring, org.jboss.narayana.quickstart.stm, org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_hop, org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_service, org.jboss.narayana.quickstart.xts, org.jboss.narayana.quickstart.xts.non-transactional-resource, org.jboss.narayana.quickstarts, org.jboss.narayana.quickstarts.spring, org.jboss.narayana.quickstarts.xts.demo** |
+| jbosstm | quickstart | false | main | org.jboss.narayana.quickstart **org.jboss.narayana.quickstart.arjunacore, org.jboss.narayana.quickstart.compensatingtransactions, org.jboss.narayana.quickstart.compensations.mongodb-simple, org.jboss.narayana.quickstart.compensations.travel-agent, org.jboss.narayana.quickstart.docker, org.jboss.narayana.quickstart.jpms, org.jboss.narayana.quickstart.jta, org.jboss.narayana.quickstart.jts, org.jboss.narayana.quickstart.rts, org.jboss.narayana.quickstart.rts.lra, org.jboss.narayana.quickstart.spring, org.jboss.narayana.quickstart.stm, org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_hop, org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_service, org.jboss.narayana.quickstart.xts, org.jboss.narayana.quickstart.xts.non-transactional-resource, org.jboss.narayana.quickstarts, org.jboss.narayana.quickstarts.spring, org.jboss.narayana.quickstarts.xts.demo** |
 | jbosstm | transaction-analyser | true | main | io.narayana.nta |
 | jbossws | .github | false | main | N/A |
 | jbossws | cxf | true | master | org.apache.cxf |
@@ -483,7 +483,7 @@ Subsequent manual edits are either in **bold text**, *italic text* or in ~~strik
 
 ## Active GroupId List
 
-*dev.resteasy.examples*
+*dev.resteasy.examples*  
 dev.resteasy.grpc  
 dev.resteasy.guice  
 dev.resteasy.jetty  
@@ -491,30 +491,30 @@ dev.resteasy.junit.extension
 dev.resteasy.netty  
 dev.resteasy.providers  
 dev.resteasy.rxjava  
-*dev.resteasy.spring.examples*
-*dev.resteasy.tck*
+*dev.resteasy.spring.examples*  
+*dev.resteasy.tck*  
 dev.resteasy.tools  
 dev.resteasy.vertx  
-*fly.wild.wizards*
-*io.github.jberet*
+*fly.wild.wizards*  
+*io.github.jberet*  
 io.narayana  
-***io.narayana.demo.lra***
-***io.narayana.presentation***
+***io.narayana.demo.lra***  
+***io.narayana.presentation***  
 io.undertow  
 io.undertow.build  
-*io.undertow.documentation*
+*io.undertow.documentation*  
 io.undertow.ee  
 io.undertow.jastow  
 io.undertow.js  
 jboss.jaxbintros  
-***narayana.performance.ejb***
-*org.cajun.navy*
-*org.example*
-*org.glassfish.soteria*
+***narayana.performance.ejb***  
+*org.cajun.navy*  
+*org.example*  
+*org.glassfish.soteria*  
 org.jberet  
-*org.jberet.examples*
+*org.jberet.examples*  
 org.jberet.samples  
-*org.jberet.tck*
+*org.jberet.tck*  
 org.jboss  
 org.jboss.classfilewriter  
 org.jboss.common  
@@ -526,53 +526,53 @@ org.jboss.logging
 org.jboss.logmanager  
 org.jboss.marshalling  
 org.jboss.metadata  
-org.jboss.migration  **(note: not published to Maven Central; only repository.jboss.org)**
+org.jboss.migration  **(note: not published to Maven Central; only repository.jboss.org)**  
 org.jboss.modules  
 org.jboss.msc  
 org.jboss.narayana  
-**,org.jboss.narayana.arjunacore**
-**org.jboss.narayana.compensations**
-***org.jboss.narayana.demo***
-***org.jboss.narayana.demo.lrademo***
-***org.jboss.narayana.ext***
-***org.jboss.narayana.javaone***
-***org.jboss.narayana.javaone.lrademo***
-**org.jboss.narayana.jta**
-**org.jboss.narayana.jts**
+**org.jboss.narayana.arjunacore**  
+**org.jboss.narayana.compensations**  
+***org.jboss.narayana.demo***  
+***org.jboss.narayana.demo.lrademo***  
+***org.jboss.narayana.ext***  
+***org.jboss.narayana.javaone***  
+***org.jboss.narayana.javaone.lrademo***  
+**org.jboss.narayana.jta**  
+**org.jboss.narayana.jts**  
 org.jboss.narayana.lra  
-***org.jboss.narayana.perf***
-*org.jboss.narayana.performance*
-*org.jboss.narayana.quickstart*
-***org.jboss.narayana.quickstart.arjunacore***
-***org.jboss.narayana.quickstart.compensatingtransactions***
-***org.jboss.narayana.quickstart.compensations.mongodb-simple***
-***org.jboss.narayana.quickstart.compensations.travel-agent***
-***org.jboss.narayana.quickstart.docker***
-***org.jboss.narayana.quickstart.jpms***
-***org.jboss.narayana.quickstart.jta***
-***org.jboss.narayana.quickstart.jts***
-***org.jboss.narayana.quickstart.rts***
-***org.jboss.narayana.quickstart.rts.lra***
-***org.jboss.narayana.quickstart.spring***
-***org.jboss.narayana.quickstart.stm***
-***org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_hop***
-***org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_service***
-***org.jboss.narayana.quickstart.xts***
-***org.jboss.narayana.quickstart.xts.non-transactional-resource***
-***org.jboss.narayana.quickstarts***
-***org.jboss.narayana.quickstarts.spring***
-***org.jboss.narayana.quickstarts.xts.demo***
+***org.jboss.narayana.perf***  
+*org.jboss.narayana.performance*  
+*org.jboss.narayana.quickstart*  
+***org.jboss.narayana.quickstart.arjunacore***  
+***org.jboss.narayana.quickstart.compensatingtransactions***  
+***org.jboss.narayana.quickstart.compensations.mongodb-simple***  
+***org.jboss.narayana.quickstart.compensations.travel-agent***  
+***org.jboss.narayana.quickstart.docker***  
+***org.jboss.narayana.quickstart.jpms***  
+***org.jboss.narayana.quickstart.jta***  
+***org.jboss.narayana.quickstart.jts***  
+***org.jboss.narayana.quickstart.rts***  
+***org.jboss.narayana.quickstart.rts.lra***  
+***org.jboss.narayana.quickstart.spring***  
+***org.jboss.narayana.quickstart.stm***  
+***org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_hop***  
+***org.jboss.narayana.quickstart.txbridge.wsat-jta-multi_service***  
+***org.jboss.narayana.quickstart.xts***  
+***org.jboss.narayana.quickstart.xts.non-transactional-resource***  
+***org.jboss.narayana.quickstarts***  
+***org.jboss.narayana.quickstarts.spring***  
+***org.jboss.narayana.quickstarts.xts.demo***  
 org.jboss.narayana.rts  
-**org.jboss.narayana.stm**
-**org.jboss.narayana.vertx**
-**org.jboss.narayana.xts**
+**org.jboss.narayana.stm**  
+**org.jboss.narayana.vertx**  
+**org.jboss.narayana.xts**  
 org.jboss.openjdk-orb  
 org.jboss.remoting  
 org.jboss.remotingjmx  
 org.jboss.resteasy  
 org.jboss.resteasy.microprofile  
 org.jboss.resteasy.spring  
-org.jboss.security    **(note: not published to Maven Central; only repository.jboss.org)**
+org.jboss.security    **(note: not published to Maven Central; only repository.jboss.org)**  
 org.jboss.slf4j  
 org.jboss.spec.jakarta.el  
 org.jboss.stdio  
@@ -580,7 +580,7 @@ org.jboss.threads
 org.jboss.universe  
 org.jboss.universe.producer  
 org.jboss.weld  
-*org.jboss.weld.benchmark*
+*org.jboss.weld.benchmark*  
 org.jboss.weld.examples  
 org.jboss.wildscribe  
 org.jboss.ws  
@@ -599,10 +599,10 @@ org.wildfly.checkstyle
 org.wildfly.client  
 org.wildfly.cloud  
 org.wildfly.cloud-tests  
-*org.wildfly.clustering.examples*
+*org.wildfly.clustering.examples*  
 org.wildfly.common  
 org.wildfly.core  
-*org.wildfly.dep-tree-diff*
+*org.wildfly.dep-tree-diff*  
 org.wildfly.deployment  
 org.wildfly.discovery  
 org.wildfly.extras.batavia  
@@ -610,7 +610,7 @@ org.wildfly.extras.creaper
 org.wildfly.extras.graphql  
 org.wildfly.extras.sunstone  
 org.wildfly.extras.vertx  
-*org.wildfly.extras.wildfly-feature-pack-template*
+*org.wildfly.extras.wildfly-feature-pack-template*   
 org.wildfly.galleon-plugins  
 org.wildfly.generative-ai  
 org.wildfly.glow  
@@ -622,25 +622,25 @@ org.wildfly.maven.plugins
 org.wildfly.openssl  
 org.wildfly.plugins  
 org.wildfly.prospero  
-org.wildfly.qa      **(note: not published to Maven Central; only repository.jboss.org)**
+org.wildfly.qa      **(note: not published to Maven Central; only repository.jboss.org)**  
 org.wildfly.quickstarts  
 org.wildfly.security  
-*org.wildfly.security.certificate.management*
+*org.wildfly.security.certificate.management*  
 org.wildfly.security.elytron-web  
 org.wildfly.security.hashicorp.vault  
 org.wildfly.security.jakarta  
-*org.wildfly.security.kubernetes.tls*
+*org.wildfly.security.kubernetes.tls*  
 org.wildfly.security.mp  
-*org.wildfly.security.testsuite*
+*org.wildfly.security.testsuite*  
 org.wildfly.security.vault  
-*org.wildfly.testing* 
+*org.wildfly.testing*  
 org.wildfly.tools  
 org.wildfly.transaction  
 org.wildfly.unstable.api.annotation  
-*org.wildfly.wildfly-doc-indexer*
+*org.wildfly.wildfly-doc-indexer*  
 org.wildfly.wildfly-http-client  
 org.xnio  
-*pull-player* 
+*pull-player*  
 
 ## Archived GroupId List
 
