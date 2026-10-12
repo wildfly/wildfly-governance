@@ -326,7 +326,7 @@ Subsequent manual edits are either in **bold text**, *italic text* or in ~~strik
 | wildfly | themes | false | main | N/A |
 | wildfly | typeannotation-test | true | main | org.jboss.jandex |
 | wildfly | unstable-api-annotation-utils | false | main | org.wildfly.unstable.api.annotation |
-| wildfly | wildfly | false | main | org.wildfly |
+| wildfly | wildfly | false | main | org.wildfly **org.wildfly.bom, org.wildfly.channels** |
 | wildfly | wildfly-ai-feature-pack | false | main | org.wildfly.generative-ai |
 | wildfly | wildfly-application-development-book | false | main | org.wildfly |
 | wildfly | wildfly-archetypes | false | main | org.wildfly.archetype |
@@ -594,7 +594,9 @@ org.wildfly
 org.wildfly.a2a  
 org.wildfly.archetype  
 org.wildfly.arquillian  
+**org.wildfly.bom**  
 org.wildfly.channel  
+**org.wildfly.channels**  
 org.wildfly.checkstyle  
 org.wildfly.client  
 org.wildfly.cloud  
